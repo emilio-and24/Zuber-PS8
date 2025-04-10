@@ -1,10 +1,10 @@
-# Analisis sobre anuncios de ventas de carros 
-#
-Este es un proyecto interactivo donde se utuliza un df sobre anuncios de ventas de carros. 
-A partir de este df, se ha creado una aplicacion web para que cualquier usuario pueda interactuar.
-Dentro de la pag web, hay dos opciones a eligir. El primero es un histograma y la segunda es un grafico de dispersion. 
-#
-La pag web usa python y librerias como pandas, streamlit y plotly para poder leer el df y generar laa graficas. Por ultimo, se ocupa el servicio de Render para poder crear la pag web
-#
-Para poder acceder. es necesario hacer clicl en el siguiente enlace:
+# 🚕 Transportation & Vehicle Sales Data Analysis
+This repository includes two data analysis projects using Python and its core libraries, presented through notebooks and an interactive web application.
+
+📊 Chicago Taxi Trip Analysis
+* Explored external factors such as weather and their impact on trip duration and frequency.
+* Created visualizations using Matplotlib and SciPy to show trip distribution by company and location, supporting strategic decisions for ride-sharing deployment.
+
+🚗 Car Sales Ad Analysis (Interactive Web App)
+* The web app, built with Streamlit, Pandas, and Plotly, offers two visualization options: a histogram and a scatter plot.
 **URL**: https://analisis-vehiculo.onrender.com
